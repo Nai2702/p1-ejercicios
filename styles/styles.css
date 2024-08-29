@@ -34,7 +34,7 @@ html {
 
 /**	Body */
 body {
-    background-color: #4350ff;
+    background-color: #12aa9b;
     color: #d0e0e3;
 }
 
@@ -122,4 +122,13 @@ footer ul li a {
     footer ul {
         flex-direction: row;
     }
+}
+
+a{
+    font-size: 2em;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
 }
